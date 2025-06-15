@@ -27,13 +27,12 @@ blockquote {
 
 a {
   color: inherit;
-    font-style: normal;
-    text-decoration: none;
+  font-style: normal;
+  text-decoration: none;
 }
 
-span{
-    font-style: normal;
-
+span {
+  font-style: normal;
 }
 
 img {
@@ -44,10 +43,9 @@ button {
   font: inherit;
 }
 
-ul{
+ul {
   list-style-type: none;
 }
-
 
 /* 
 .active{
