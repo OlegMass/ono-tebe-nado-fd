@@ -134,8 +134,7 @@
   text-transform: uppercase;
   color: #fff;
   background-color: transparent;
-  border-color: #fff;
-  border-width: 1px;
+  border: 1px solid #fff;
 }
 
 /* section lots */
@@ -307,7 +306,7 @@
   box-sizing: border-box;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  padding: 20px 50px 0px 51px;
+  padding: 20px 50px 82px 51px;
   gap: 140px;
 }
 
